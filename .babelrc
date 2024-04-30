@@ -1,0 +1,9 @@
+{
+    "presets": [
+      ["@babel/preset-env", {
+        "modules": false  // This tells Babel to keep ES6 modules
+      }],
+      "@babel/preset-react"
+    ]
+  }
+  
